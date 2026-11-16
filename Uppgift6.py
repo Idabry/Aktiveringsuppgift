@@ -2,8 +2,8 @@ import time
 
 ## Första koden nedan är markerad som "kommentar" men vill ha med den för att visa vad som gjordes innan
 
-# with open("todolist.txt", "w") as file:           - Detta skapar en ny fil som heter "todolist.txt"
-#    file.close()
+# file = open("todolist.txt", "w") as file:           - Detta skapar en ny fil som heter "todolist.txt"
+#    pass
 
 # with open("todolist.txt", "w")as file:
 #    file.write("TASKS:\n\n")          - Detta skriver först TASKS: i filen

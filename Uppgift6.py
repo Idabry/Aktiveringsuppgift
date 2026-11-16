@@ -2,11 +2,7 @@ import time
 
 ## Första koden nedan är markerad som "kommentar" men vill ha med den för att visa vad som gjordes innan
 
-<<<<<<< HEAD
 # with open("todolist.txt", "w") as file:           - Detta skapar en ny fil som heter "todolist.txt"
-=======
-# open("todolist.txt", "w")            - Detta skapar en ny fil som heter "todolist.txt"
->>>>>>> cb056e4a79a4242d03b6798ba881737ecdb55b16
 #    file.close()
 
 # with open("todolist.txt", "w")as file:
